@@ -24,6 +24,3 @@ A cross-platform Quiz Application developed using Flutter and Dart that provides
 * Social Media Sharing
 * Advanced Analytics Dashboard
 * Voice-Based Quiz Support
-
-
-Developed by **Your Name**
